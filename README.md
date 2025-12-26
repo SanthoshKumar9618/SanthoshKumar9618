@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm T Santhosh Kumar 👋
 
-<!--
-**SanthoshKumar9618/SanthoshKumar9618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Software Developer | Data Analyst  
+💻 Java | Python | SQL | React | Django  
+📊 Data Analysis | Dashboards | Problem Solving  
 
-Here are some ideas to get you started:
+### 🔹 What I Do
+- Build data-driven applications and dashboards
+- Analyze datasets to extract insights
+- Develop full-stack projects using React & Django
+- Write clean, maintainable Java code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Projects
+- 📈 Data Analyst Project – EDA, SQL queries, visualizations
+- 🚦 Accident Hotspot Detection (React + Django + ML)
+- 🧩 Java-based applications & problem solving
+
+### 🔹 Currently Learning
+- Advanced SQL & Power BI
+- System Design basics
+- DSA with Java
+
+📫 Reach me: tsanthoshdev6@gmail.com
