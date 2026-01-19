@@ -1,7 +1,7 @@
 ## Hi, I'm T Santhosh Kumar 👋
 
 🎯 Software Developer | Data Analyst  
-💻 Java | Python | SQL | React | Django  
+💻 Python | SQL | React | Fast API  
 📊 Data Analysis | Dashboards | Problem Solving  
 
 ### 🔹 What I Do
@@ -18,6 +18,6 @@
 ### 🔹 Currently Learning
 - Advanced SQL & Power BI
 - System Design basics
-- DSA with Java
+- DSA with python
 
 📫 Reach me: tsanthoshdev6@gmail.com
