@@ -1,6 +1,6 @@
 # Hi 👋, I'm T Santhosh Kumar
 
-### Python Full Stack Developer | FastAPI | React | AI Applications | Software Engineer
+## Python Full Stack Developer | FastAPI | React | AI Applications | Software Engineer
 
 🚀 Passionate Software Developer with experience building production-ready AI applications, scalable backend systems, and modern web applications. 
 
