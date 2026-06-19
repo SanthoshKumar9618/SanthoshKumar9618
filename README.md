@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me 
 
 * 🔭 Currently working on AI Voice Agent Platforms
 * 🌱 Learning System Design, Advanced SQL, and Cloud Technologies
